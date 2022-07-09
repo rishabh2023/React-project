@@ -1,0 +1,7 @@
+export const ActionTypes = {
+  SET_EXPERTS: "SET_EXPERTS",
+  SET_HOME:"SET_HOME",
+  SET_SERVICES:"SET_SERVICES",
+  SET_CATEGORY:"SET_CATEGORY"
+ 
+};
